@@ -29,22 +29,26 @@ h3 {
   text-align: center;
   padding: 10px;
   font-size: 2em;
+  font-family: "Share Tech", sans-serif;
 }
 
 .description {
   padding: 10px;
   text-align: justify;
   height: 20%;
+  font-family: "Share Tech", sans-serif;
 }
 
 .available {
   color: yellow;
   background: darkgray;
   padding: 5px;
+  font-family: "Helvetica", "Open Sans"
 }
 
 .specSection {
   margin-left: 8px;
+  font-family: "Share Tech", sans-serif;
 }
 
 .specs {
@@ -71,7 +75,7 @@ h3 {
   
   article {
     display: block;
-    width: 70%;
+    width: 60%;
     margin: 10px auto;
   }
 
