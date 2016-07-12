@@ -5,6 +5,7 @@
   font-size: 100%;*/
 }
 
+
 article {
   width: 30%;
   border: 1px solid lightblue;
@@ -36,6 +37,7 @@ h3 {
 .description {
   padding: 10px;
   text-align: justify;
+  height: 20%;
 }
 
 .available {
@@ -51,4 +53,35 @@ h3 {
 .specs {
   font-weight: bold;
   padding-left: 5px;
+}
+
+/*MEDIA QUERIES*/
+
+/*@media (max-width: 600px) {
+  article {
+    display: block;
+  }
+  body {
+    background: red;
+  }
+}*/
+
+@media (max-width: 1000px) {
+  img {
+    width: 30%;
+    height: auto;
+  }
+  
+  article {
+    display: block;
+    width: 50%;
+    margin: 0 auto;
+    padding: 25px 0;
+
+  }
+
+  .description {
+    width: 50%;
+    margin: 0 auto;
+  }
 }

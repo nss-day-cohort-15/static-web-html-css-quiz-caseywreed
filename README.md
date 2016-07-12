@@ -36,7 +36,7 @@ Your task is to build a grid of cards for a company's products. Here's the requi
 1. The first section should contain three child block elements.
     1. The first element contains the product image.
     1. The second element contains the product description.
-    1. The third element contains the product availability (e.g. "Available" or "Not Available")
+    1. The third element contains the product availability ß(e.g. "Available" or "Not Available")
 1. The second section contains product specifications.
     1. This section should have a header containing the word "Specifications"
     1. This section should contain two block elements
