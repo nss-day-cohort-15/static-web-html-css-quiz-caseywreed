@@ -9,8 +9,8 @@ mkdir -p ~/workspace/quizzes/static-web/html && cd $_
 ```
 
 This will create a project folder and cd you into it.
-When you are ready to start the quiz, request the Github Classroom link from your instructor  
-+ Once your repository is created on GitHub, copy the list of commands under **"..or create a new repository on the command line"** by clicking on the clipboard icon  
+When you are ready to start the quiz, request the Github Classroom link from your instructor
++ Once your repository is created on GitHub, copy the list of commands under **"..or create a new repository on the command line"** by clicking on the clipboard icon
 + Paste the commands into your terminal. This will create a README.md file, add it, commit it, connect your local reop to GitHub, and set you up to push up the changes. (If the last command, `git push origin master` isn't automatically executed, hit enter/return to run it).
 
 All of your quiz work should be on a branch, NOT on master. To do this, type:
@@ -36,7 +36,7 @@ Your task is to build a grid of cards for a company's products. Here's the requi
 1. The first section should contain three child block elements.
     1. The first element contains the product image.
     1. The second element contains the product description.
-    1. The third element contains the product availability ß(e.g. "Available" or "Not Available")
+    1. The third element contains the product availability (e.g. "Available" or "Not Available")
 1. The second section contains product specifications.
     1. This section should have a header containing the word "Specifications"
     1. This section should contain two block elements
